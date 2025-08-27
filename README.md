@@ -20,5 +20,12 @@ Este repositório contém o código-fonte do trabalho final da disciplina, que c
 - Realiza a soma dos anos de nascimento dos integrantes do grupo.  
 - Exibe o resultado como saída no console.
 
+  ---
+
+## 🛠️ Ferramentas
+- **Simulador**: [MARS MIPS simulator](http://courses.missouristate.edu/kenvollmar/mars/)  
+- **Exemplo de Código (Fibonacci)**: [dpetersanderson.github.io/Fibonacci.asm](https://dpetersanderson.github.io/Fibonacci.asm)  
+- **Tutorial de Referência**: [Tutorial_MIPS_Using_MARS.pdf](http://courses.missouristate.edu/kenvollmar/mars/Tutorial_MIPS_Using_MARS.pdf)  
+
 - ## 🔗 Link do Vídeo
 
